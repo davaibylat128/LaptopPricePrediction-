@@ -1,0 +1,37 @@
+
+.modal-dialog {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+
+  .modal-content {
+    max-width: 70%;
+    height: 28%;
+  }
+
+  .custom-header {
+    padding-top: 5px;
+  }
+  .custom-title{
+    font-size: 9px;
+    padding-top: 5px;
+  }
+  .close {
+    font-size: 17px;
+  }
+.custom-body {
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 0.5rem;
+    max-height: 10px;
+  } 
+
+  /* .custom-footer{
+    height: 20px;
+  } */
+.custom-footer .btn{
+    padding: 0.3rem;
+    font-size: 10px;
+    margin-bottom: 5px;
+  }
